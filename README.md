@@ -127,8 +127,6 @@ But we can fix this:
 
 PRs, and issues are welcome :smiling_imp:
 
-### Author
-Vladimir Metnew <vladimirmetnew@gmail.com>
 
 ### LICENSE
 
